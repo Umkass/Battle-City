@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a646cc6dc9f874ab38370408fffbeb, type: 3}
+  m_Name: Base3
+  m_EditorClassIdentifier: 
+  _level: 3
+  _speed: 2
+  _health: 300
+  _baseSpriteEnemy: {fileID: 21300000, guid: b81e7b45ec18b5646ae42d17b98fffab, type: 3}
+  _baseSpritePlayer: {fileID: 21300000, guid: c1d69e64040ca10439d787ebde1b3ad6, type: 3}
